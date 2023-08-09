@@ -1,0 +1,4 @@
+Im Datensatz der ausländischen Umsätze haben wir einen inkorrekten Wert bei Prdukt"A+B+C" an Index 0 gefunden.
+Die Umsätze von Produkt B wurden kummulativ angegeben und die Umsätze von Produkt C ergeben sich aus Produkt"A+B+C" 
+- A und - dem bereinigten B. Dadurch wurde Umsatz C mit Index 0 um ein Vielfaches größer als der Median. Wir haben uns
+entschlossen deshalb den Median zu verwenden.
